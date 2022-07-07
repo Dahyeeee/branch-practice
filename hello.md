@@ -1,5 +1,5 @@
 # Greetings
 
-- English: Good Morning!
-- Korean: 식사 하셨나요?
+- English: Hi, Hello
+- Korean: 반가워요
 - Spanish: Hola
